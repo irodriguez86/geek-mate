@@ -1,0 +1,4 @@
+services:
+#    gmapi.example:
+#        class: GM\APIBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

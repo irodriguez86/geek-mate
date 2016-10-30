@@ -1,0 +1,4 @@
+gmapi:
+    resource: "@GMAPIBundle/Resources/config/routing.yml"
+    prefix:   /
+
